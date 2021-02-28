@@ -1,3 +1,3 @@
 # workoutLog
 
-![delete](/assets/delete.png)
+![delete](assets/delete.png)
