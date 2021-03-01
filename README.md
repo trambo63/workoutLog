@@ -7,7 +7,7 @@
 ![login](assets/userLoginPost.PNG)
 
 ## POST /log/
-![log](assets/userLogPost.PNG)
+![log](assets/logPost.PNG)
 
 ## GET /log/
 ![logGet](assets/getAllLogsForUser.PNG)
