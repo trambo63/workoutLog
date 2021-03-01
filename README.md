@@ -1,6 +1,6 @@
 # workoutLog
 
-##/user/register
+## /user/register
 ![register](assets/userRegisterPost.PNG)
-##/log/:id
+## /log/:id
 ![DELETE](assets/delete.PNG)
